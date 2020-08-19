@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 1 World Connected
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Pennsylvania
+  url: "https://www.law.upenn.edu/institutes/ctic/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 1 World Connected is a research project that systematically compiles, analyses and disseminates information on connecting the unconnected. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +34,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:1worldconnectedproject@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/1_WorldConnect
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +55,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+1 World Connected is a research project of the Center for Technology, Innovation and Competition at the University of Pennsylvania. Governments, civil society organizations, and businesses around the world have initiated a wide range of efforts to improve broadband adoption around the world. 1 World Connected seeks to consolidate, extend, and share information about these efforts by collecting and disseminating case studies on practices that have proven effective in improving broadband adoption.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The case studies provide meaningful information on last mile project deployments that use a myriad of funding sources, stakeholder groups and technologies in every region across the world. The initiative aims to bring together a community of infrastructure project owners, investors, government actors, and more to communicate about projects, priorities, and potential deals; advocate for better regulatory environments; and enable data sharing.
