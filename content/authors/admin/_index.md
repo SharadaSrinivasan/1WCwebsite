@@ -20,12 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 1 World Connected is a research project that systematically compiles, analyses and disseminates information on connecting the unconnected. 
 
-interests:
-
-
-education:
-  courses:
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
