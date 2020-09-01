@@ -21,11 +21,11 @@ subtitle = "125 case studies from over 50 countries"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
+[[content.filter_button]]
    name = "All"
    tag = "*"
-  
-   [[content.filter_button]]
+   
+[[content.filter_button]]
    name = "Africa"
    tag = "Africa"
   
@@ -43,7 +43,7 @@ subtitle = "125 case studies from over 50 countries"
   view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
