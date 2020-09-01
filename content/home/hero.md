@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "1 World Connected: Innovative Approaches to Connecting the Unconnected"
+title = "1 World Connected Database"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "hero-academic.png"
@@ -20,8 +20,8 @@ hero_media = "hero-academic.png"
   color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.
@@ -51,6 +51,4 @@ hero_media = "hero-academic.png"
   #label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**1 World Connected profiles innovative approaches to connecting underserved communities spanning both supply-side and demand-side barriers to Internet adoption**
-
-
+Innovative Approaches to **Connecting the Unconnected**
