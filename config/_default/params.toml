@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "1 World Connected is a research project of the Center for Technology, Innovation and Competition at the University of Pennsylvania focused on systematically documenting, analyzing and assessing the impact of innovative projects to foster Internet adoption globally."
 
 ############################
 ## Site Features
@@ -124,7 +124,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "1wctext.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "1_WorldConnect"
