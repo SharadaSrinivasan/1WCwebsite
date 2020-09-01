@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Projects"
+title = "Case Studies"
 subtitle = "125 case studies from over 50 countries"
 
 [content]
@@ -21,17 +21,15 @@ subtitle = "125 case studies from over 50 countries"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+   name = "All"
+   tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+   [[content.filter_button]]
+   name = "Africa"
+   tag = "Africa"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+ 
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -42,7 +40,7 @@ subtitle = "125 case studies from over 50 countries"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
