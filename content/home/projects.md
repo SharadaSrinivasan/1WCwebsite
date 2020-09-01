@@ -83,10 +83,6 @@ subtitle = "125 case studies from over 50 countries"
    name = "Domain: Agriculture"
    tag = "Agriculture"
 
-[[content.filter_button]]
-   name = "Domain: E-government"
-   tag = "E-government"
-   
    
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
