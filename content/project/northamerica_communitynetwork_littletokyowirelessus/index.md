@@ -16,7 +16,7 @@ summary = "A Community Wi-Fi Network in Little Tokyo in **Los Angeles, United St
 
 # Example: `tags = ["machine-learning", "deep-learning"]`
 
-tags = ["North Amercia", "Community Network"]
+tags = ["North America", "Community Network"]
 
 # Optional external URL for project (replaces project detail page).
 
