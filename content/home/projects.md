@@ -26,20 +26,40 @@ subtitle = "125 case studies from over 50 countries"
    tag = "*"
    
 [[content.filter_button]]
-   name = "Africa"
+   name = "Region: Africa"
    tag = "Africa"
   
  [[content.filter_button]]
-   name = "Asia"
+   name = "Region: Asia"
    tag = "Asia"
    
  [[content.filter_button]]
-   name = "Europe"
+   name = "Region: Europe"
    tag = "Europe"
    
  [[content.filter_button]]
-   name = "Latin America and the Carribbean"
+   name = "Region: North America"
+   tag = "North America"
+   
+[[content.filter_button]]
+   name = "Region: Latin America and the Carribbean"
    tag = "Latin America and the Caribbean"
+
+[[content.filter_button]]
+   name = "Region: Oceania"
+   tag = "Oceania"
+
+[[content.filter_button]]
+   name = "Domain: Community Network"
+   tag = "Community Network"
+   
+[[content.filter_button]]
+   name = "Domain: Commercial Deployments"
+   tag = "Commercial Deployment"
+
+[[content.filter_button]]
+   name = "Domain: Gender"
+   tag = "Gender"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
