@@ -61,6 +61,33 @@ subtitle = "125 case studies from over 50 countries"
    name = "Domain: Gender"
    tag = "Gender"
 
+[[content.filter_button]]
+   name = "Domain: Health"
+   tag = "Health"
+
+[[content.filter_button]]
+   name = "Domain: Digital Skills Training"
+   tag = "Digital Skills Training"
+
+[[content.filter_button]]
+   name = "Domain: Education - In School"
+   tag = "Education - In School"
+
+
+[[content.filter_button]]
+   name = "Domain: Financial Inclusion"
+   tag = "Financial Inclusion"
+   
+
+[[content.filter_button]]
+   name = "Domain: Agriculture"
+   tag = "Agriculture"
+
+[[content.filter_button]]
+   name = "Domain: E-government"
+   tag = "E-government"
+   
+   
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
