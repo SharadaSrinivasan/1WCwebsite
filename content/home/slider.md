@@ -17,14 +17,14 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "1 World Connected"
-  content = "I am center aligned :smile:"
+  content = "A global project studying innovative approaches to connecting underserved communities. Our projects database spans over 1000 projects from 150 countries."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "##0b2a48"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
