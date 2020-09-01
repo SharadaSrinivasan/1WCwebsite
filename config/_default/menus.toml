@@ -19,15 +19,20 @@
   weight = 20
 
 [[main]]
-  name = "Writing"
+  name = "Policy Briefs"
   url = "#featured"
   weight = 40
   
 
 [[main]]
-  name = "Media"
+  name = "Events"
   url = "#talks"
   weight = 50
+ 
+ [[main]]
+  name = "Podcast"
+  url = "#podcast"
+  weight = 55
 
 
 # [[main]]
