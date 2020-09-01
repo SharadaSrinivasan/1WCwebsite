@@ -16,7 +16,7 @@ summary = "Providing connectivity using unlicensed spectrum and TV white spaces 
 
 # Example: `tags = ["machine-learning", "deep-learning"]`
 
-tags = ["Asia", "TVWS", "Commericial Deployment"]
+tags = ["Asia", "TVWS", "Commercial Deployment"]
 
 # Optional external URL for project (replaces project detail page).
 
