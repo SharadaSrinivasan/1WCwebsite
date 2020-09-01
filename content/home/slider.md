@@ -22,9 +22,9 @@ height = ""
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "##0b2a48"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_color = "#0b2a48"  # An HTML color value.
+  # overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/media/` folder.
+  # overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -32,23 +32,21 @@ height = ""
   cta_label = "View our Database"
   cta_url = "https://docs.google.com/spreadsheets/d/1mR3-AMQ__2iRdaIgqaB_yMIK4M5Kygu8DMapFlhiu4I/edit#gid=0"
   cta_icon_pack = "fas"
-  cta_icon = "file-archive-o"
+  cta_icon = "file-alt"
 
 [[item]]
   title = "Podcast"
-  content = "Check out the 1 World Connected Podcast with Grassroots Projects"
+  content = "Check out the new 1 World Connected Podcast!"
   align = "center"
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = "#e8c476"  # An HTML color value.
+  # overlay_img = ""  # Image path relative to your `static/media/` folder.
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "View our Podcast"
+  cta_url = "https://docs.google.com/spreadsheets/d/1mR3-AMQ__2iRdaIgqaB_yMIK4M5Kygu8DMapFlhiu4I/edit#gid=0"
+  cta_icon_pack = "fas"
+  cta_icon = "th"
 
-[[item]]
-  title = "Blogs"
-  content = "Our blogs can be viewed here"
-  align = "right"
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
