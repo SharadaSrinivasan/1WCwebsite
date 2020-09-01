@@ -16,7 +16,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
+  title = "1 World Connected"
   content = "I am center aligned :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -29,23 +29,23 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_label = "View our Database"
+  cta_url = "https://docs.google.com/spreadsheets/d/1mR3-AMQ__2iRdaIgqaB_yMIK4M5Kygu8DMapFlhiu4I/edit#gid=0"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "file-archive-o"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+  title = "Podcast"
+  content = "Check out the 1 World Connected Podcast with Grassroots Projects"
+  align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
+  title = "Blogs"
+  content = "Our blogs can be viewed here"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
