@@ -29,7 +29,17 @@ subtitle = "125 case studies from over 50 countries"
    name = "Africa"
    tag = "Africa"
   
- 
+ [[content.filter_button]]
+   name = "Asia"
+   tag = "Asia"
+   
+ [[content.filter_button]]
+   name = "Europe"
+   tag = "Europe"
+   
+ [[content.filter_button]]
+   name = "Latin America and the Carribbean"
+   tag = "Latin America and the Caribbean"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
