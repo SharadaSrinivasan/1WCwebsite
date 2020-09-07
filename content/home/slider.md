@@ -44,7 +44,7 @@ height = ""
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   cta_label = "View our Podcast"
-  cta_url = "https://docs.google.com/spreadsheets/d/1mR3-AMQ__2iRdaIgqaB_yMIK4M5Kygu8DMapFlhiu4I/edit#gid=0"
+  cta_url = "#podcast"
   cta_icon_pack = "fas"
   cta_icon = "th"
 
