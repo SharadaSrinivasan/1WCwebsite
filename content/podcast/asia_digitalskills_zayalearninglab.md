@@ -13,7 +13,7 @@ summary = "*1 World Connected Podcast with Zaya Learning Lab*"
 tags = ["Asia", "Digital Skills Training"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://soundcloud.com/user-658188477/1wc-zaya-learning-lab"
 
 +++
 
