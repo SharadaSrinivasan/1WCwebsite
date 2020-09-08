@@ -43,7 +43,14 @@ height = ""
   overlay_img = "vanuatu.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
+[[item]]
+  title = "Digital Health Applications in Nepal"
+  content = "In 2018, Muge Haseki conducted fieldwork in Nepal to understand pregnant women’s access and usage of cell phones through in-depth interviews and focus group discussions to understand the social and cultural context that might impact mobile phone use and perceptions of mobile-based information dissemination." 
+  align = "right"
 
+  # overlay_color = "#e8c476"  # An HTML color value.
+  overlay_img = "nepal.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 
 +++
