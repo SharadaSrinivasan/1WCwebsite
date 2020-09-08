@@ -3,7 +3,7 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 38  # Order that this section will appear.
+weight = 52 # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -22,7 +22,7 @@ height = ""
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#0b2a48"  # An HTML color value.
+  # overlay_color = "#0b2a48"  # An HTML color value.
   overlay_img = "1wctext.png"  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -35,18 +35,15 @@ height = ""
   cta_icon = "video"
 
 [[item]]
-  title = "Podcast"
-  content = "Check out the new 1 World Connected Podcast!"
-  align = "center"
+  title = "Telemedicine in Vanuatu"
+  content = "In 2018, Sharada Srinivasan conducted household surveys and in-depth interviews in the villages of Kerembei and Naviso in Maewo, Vanuatu, to evaluate the impact of first-time Internet connectivity on health outcomes."
+  align = "right"
 
-  overlay_color = "#e8c476"  # An HTML color value.
+  # overlay_color = "#e8c476"  # An HTML color value.
   # overlay_img = ""  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "View our Podcast"
-  cta_url = "#podcast"
-  cta_icon_pack = "fas"
-  cta_icon = "th"
+
 
 
 +++
