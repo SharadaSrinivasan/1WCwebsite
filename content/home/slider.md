@@ -18,7 +18,7 @@ height = ""
 [[item]]
   title = ""
   content = "1 World Connected is a global research project of the Center for Technology, Innovation, and Competition at the University of Pennsylvania. We study innovative approaches to connecting underserved communities to the Internet through empirical methods. Our projects database spans over 1000 projects from 150 countries."
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -37,7 +37,7 @@ height = ""
 [[item]]
   title = "Podcast"
   content = "Check out the new 1 World Connected Podcast!"
-  align = "center"
+  align = "right"
 
   overlay_color = "#e8c476"  # An HTML color value.
   # overlay_img = ""  # Image path relative to your `static/media/` folder.
