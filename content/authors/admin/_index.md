@@ -45,7 +45,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-[]
+- Visitors
 ---
 
 1 World Connected is a research project of the Center for Technology, Innovation and Competition at the University of Pennsylvania. Governments, civil society organizations, and businesses around the world have initiated a wide range of efforts to improve broadband adoption around the world. 1 World Connected seeks to consolidate, extend, and share information about these efforts by collecting and disseminating case studies on practices that have proven effective in improving broadband adoption.
