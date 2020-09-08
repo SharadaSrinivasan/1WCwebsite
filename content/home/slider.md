@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "1 World Connected"
-  content = "A global research project of the Center for Technology, Innovation, and Competition at the University of Pennsylvania studying innovative approaches to connecting underserved communities. Our projects database spans over 1000 projects from 150 countries."
+  content = "A global research project of the Center for Technology, Innovation, and Competition at the University of Pennsylvania. We study innovative approaches to connecting underserved communities to the Internet through empirical methods. Our projects database spans over 1000 projects from 150 countries."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
