@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Imasogie Professor, Penn Law
+role: Non-Resident Fellow
 
 # Organizations/Affiliations
 organizations:
