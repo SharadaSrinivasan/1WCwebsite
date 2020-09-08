@@ -17,6 +17,11 @@
   name = "Case Studies"
   url = "#projects"
   weight = 20
+  
+[[main]]
+  name = "Projects"
+  url = "#fieldwork"
+  weight = 25
 
 [[main]]
   name = "Policy Briefs"
