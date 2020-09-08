@@ -15,22 +15,28 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "yoo"
+  icon = "yoo.jpg"
   icon_pack = "custom"
   name = "Christopher Yoo"
   description = "Imasogie Professor, Penn Law"
   
 [[feature]]
-  icon = "haseki"
+  icon = "haseki.jpg"
   icon_pack = "custom"
   name = "Muge Haseki"
   description = "Postdoctoral Fellow"  
   
 [[feature]]
-  icon = "gwaka"
+  icon = "gwaka.jpg"
   icon_pack = "custom"
   name = "Leon Gwaka"
   description = "Postdoctoral Fellow"
+  
+[[feature]]
+  icon = "mehta.jpg"
+  icon_pack = "custom"
+  name = "Himani Mehta"
+  description = "Graduate Research Fellow"
 
 # Uncomment to use emoji icons.
 # [[feature]]
