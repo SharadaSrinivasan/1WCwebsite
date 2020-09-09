@@ -35,8 +35,8 @@ height = ""
   # cta_icon = "file-alt"
 
 [[item]]
-  title = "Check out the new 1 World Connected podcast!"
-  content = "Latest podcast with Zaya Learning Lab COO Harmik Singh"
+  title = ""
+  content = "Check out the latest 1 World Connected podcast!"
   align = "right"
 
   overlay_color = "#0b2a48"  # An HTML color value.
