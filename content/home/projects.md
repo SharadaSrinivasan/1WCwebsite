@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Case Studies"
 subtitle = "125 case studies from over 50 countries"
@@ -20,6 +20,7 @@ subtitle = "125 case studies from over 50 countries"
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
+  count = 5
   
 [[content.filter_button]]
    name = "All"
