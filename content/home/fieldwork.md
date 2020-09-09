@@ -38,6 +38,10 @@ height = ""
   title = "Tele-medicine in Vanuatu"
   content = "Studying the impact of first-time Internet connectivity on health outcomes."
   align = "right"
+  cta_label = "Learn More"
+  cta_url = "https://youtu.be/ULMMg6KeBs8"
+  cta_icon_pack = "fas"
+  cta_icon = "arrow-right"
 
   # overlay_color = "#e8c476"  # An HTML color value.
   overlay_img = "vanuatu.jpg"  # Image path relative to your `static/media/` folder.
@@ -45,8 +49,12 @@ height = ""
   
 [[item]]
   title = "Digital Health Applications in Nepal"
-  content = "Studying thdoption of mobile health applications in rural Nepal" 
+  content = "Studying the adoption of mobile health applications in rural Nepal" 
   align = "right"
+  cta_label = "Learn more"
+  cta_url = "https://youtu.be/ULMMg6KeBs8"
+  cta_icon_pack = "fas"
+  cta_icon = "arrow-right"
 
   # overlay_color = "#e8c476"  # An HTML color value.
   overlay_img = "nepal.jpg"  # Image path relative to your `static/media/` folder.
