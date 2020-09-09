@@ -35,18 +35,18 @@ height = ""
   # cta_icon = "file-alt"
 
 [[item]]
-  title = "Podcast"
-  content = "Check out the new 1 World Connected Podcast!"
+  title = "Check out the new 1 World Connected podcast!"
+  content = "Latest podcast with Zaya Learning Lab COO Harmik Singh"
   align = "right"
 
   overlay_color = "#0b2a48"  # An HTML color value.
   # overlay_img = ""  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "View our Podcast"
+  cta_label = "Podcast"
   cta_url = "#podcast"
   cta_icon_pack = "fas"
-  cta_icon = "th"
+  cta_icon = "file-audio"
 
 
 +++
