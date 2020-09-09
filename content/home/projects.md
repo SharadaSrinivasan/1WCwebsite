@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Case Studies"
-subtitle = "125 case studies from over 50 countries"
+subtitle = "125 case studies, 50 countries. View our projects [database](https://docs.google.com/spreadsheets/d/1mR3-AMQ__2iRdaIgqaB_yMIK4M5Kygu8DMapFlhiu4I/edit#gid=0) with over 1000 projects"
 
 [content]
   # Page type to display. E.g. project.
@@ -20,11 +20,11 @@ subtitle = "125 case studies from over 50 countries"
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
-  count = 5
+  
   
 [[content.filter_button]]
-   name = "All"
-   tag = "*"
+   name = "Featured"
+   tag = "Featured"
    
 [[content.filter_button]]
    name = "Region: Africa"
