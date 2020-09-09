@@ -17,14 +17,14 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Connectivity in Rural Rwanda"
-  content = "In 2017, Fellows Muge Haseki and Sharada Srinivasan conducted fieldwork across 31 sites in rural Rwanda to investigate the impact of internet on economic development outcomes in collaboration with a company that extends connectivity through small cell GSM towers."
+  content = ""
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#0b2a48"  # An HTML color value.
   overlay_img = "featured.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -35,8 +35,8 @@ height = ""
   cta_icon = "video"
 
 [[item]]
-  title = "Telemedicine in Vanuatu"
-  content = "In 2018, Sharada Srinivasan conducted household surveys and in-depth interviews in the villages of Kerembei and Naviso in Maewo, Vanuatu, to evaluate the impact of first-time Internet connectivity on health outcomes."
+  title = "Tele-medicine in Vanuatu"
+  content = "Studying the impact of first-time Internet connectivity on health outcomes."
   align = "right"
 
   # overlay_color = "#e8c476"  # An HTML color value.
@@ -45,7 +45,7 @@ height = ""
   
 [[item]]
   title = "Digital Health Applications in Nepal"
-  content = "In 2018, Muge Haseki conducted fieldwork in Nepal to understand pregnant women’s access and usage of cell phones through in-depth interviews and focus group discussions to understand the social and cultural context that might impact mobile phone use and perceptions of mobile-based information dissemination." 
+  content = "Studying thdoption of mobile health applications in rural Nepal" 
   align = "right"
 
   # overlay_color = "#e8c476"  # An HTML color value.
