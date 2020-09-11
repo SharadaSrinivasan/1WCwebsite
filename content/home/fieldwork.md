@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Connectivity in Rural Rwanda"
-  content = ""
+  content = "Studying the effects of rural Internet connectivity on development outcomes"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "Tele-medicine in Vanuatu"
-  content = "Studying the impact of first-time Internet connectivity on health outcomes."
+  content = "Studying the impact of first-time Internet connectivity on health outcomes"
   align = "right"
   cta_label = "Learn More"
   cta_url = "https://youtu.be/ULMMg6KeBs8"
