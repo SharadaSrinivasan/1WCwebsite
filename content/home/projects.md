@@ -26,6 +26,10 @@ subtitle = "125 case studies, 50 countries. View our projects [database](https:/
    name = "Featured"
    tag = "Featured"
    
+ [[content.filter_button]]
+   name = "All"
+   tag = "*"
+   
 [[content.filter_button]]
    name = "Region: Africa"
    tag = "Africa"
