@@ -26,8 +26,7 @@ url_video: "https://www.newamerica.org/oti/events/next-three-billion/"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- 
+projects: []
 
 # Enable math on this page?
 math: true
