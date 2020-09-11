@@ -51,3 +51,9 @@ user_groups:
 1 World Connected is a research project of the Center for Technology, Innovation and Competition at the University of Pennsylvania. Governments, civil society organizations, and businesses around the world have initiated a wide range of efforts to improve broadband adoption around the world. 1 World Connected seeks to consolidate, extend, and share information about these efforts by collecting and disseminating case studies on practices that have proven effective in improving broadband adoption.
 
 The case studies provide meaningful information on last mile project deployments that use a myriad of funding sources, stakeholder groups and technologies in every region across the world. The initiative aims to bring together a community of infrastructure project owners, investors, government actors, and more to communicate about projects, priorities, and potential deals; advocate for better regulatory environments; and enable data sharing.
+
+1 World Connected has been supported by  American Tower, AT&T, Cellular Operators Association of India, Comcast, Disney, Facebook, GSMA, Intel, ICANN, Internet Society, ITI, Microsoft, and Verizon.
+
+[Collaborations with International Organizations]
+
+[Data Use Policy]
