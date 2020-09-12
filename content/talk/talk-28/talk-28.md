@@ -26,15 +26,13 @@ url_video: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- 
+projects: []
 
 # Enable math on this page?
 math: true
 ---
 
 1 World Connected participated in several sessions at the Internet Governance Forum in Geneva in 2017. 
-
 
 Dynamic Coalition on Connecting the Unconnected, Internet Governance Forum, Geneva, Switzerland (December 21, 2017). 
 
