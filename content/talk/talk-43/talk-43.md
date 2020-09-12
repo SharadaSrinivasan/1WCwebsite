@@ -26,12 +26,11 @@ url_video: "http://www.ppdd.org/conferences/ppdd2019/"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- 
+projects: []
 
 # Enable math on this page?
 math: true
 ---
 
-The paper that Dr. Haseki presented, was titled " Intersectionality Perspective to Understanding the Barriers to Women’s Access and Use: A Case Study Approach"
+The paper that Muge Haseki presented was titled " Intersectionality Perspective to Understanding the Barriers to Women’s Access and Use: A Case Study Approach"
 
