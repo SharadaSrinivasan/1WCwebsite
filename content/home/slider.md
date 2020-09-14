@@ -23,8 +23,8 @@ height = ""
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#0b2a48"  # An HTML color value.
-   overlay_img = "background-slider.jpg"  # Image path relative to your `static/media/` folder.
-  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+   overlay_img = "background-logos.png"  # Image path relative to your `static/media/` folder.
+   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
