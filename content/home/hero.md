@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 1  # Order that this section will appear.
 
-title = "1 World Connected Database"
+title = "1 World Connected"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.png"
+hero_media = "background-slider.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -36,19 +36,19 @@ hero_media = "hero-academic.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "View our Database"
-  icon_pack = "fas"
-  icon = "download"
+# [cta]
+ # url = "https://sourcethemes.com/academic/docs/install/"
+ # label = "View our Database"
+ # icon_pack = "fas"
+ # icon = "download"
   
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+# [cta_alt]
+#  url = "https://sourcethemes.com/academic/"
+ # label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
   #label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Innovative Approaches to **Connecting the Unconnected**
+Global Research Project hosted at the Center for Technology, Innovation and Competition, University of Pennsylvania 
