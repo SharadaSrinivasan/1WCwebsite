@@ -54,6 +54,5 @@ The case studies provide meaningful information on last mile project deployments
 
 1 World Connected has been supported by  American Tower, AT&T, Cellular Operators Association of India, Comcast, Disney, Facebook, GSMA, Intel, ICANN, Internet Society, ITI, Microsoft, and Verizon.
 
-[Collaborations with International Organizations]
+1 World Connected collaborates with several international organizations and participates in working groups pertaining to connectivity and development. [Collaborations with International Organizations](/docs/collabs.md)
 
-[Data Use Policy]
