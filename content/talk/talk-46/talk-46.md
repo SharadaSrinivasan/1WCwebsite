@@ -7,7 +7,7 @@ summary: Professor Christopher Yoo participated in the EQUALS Partners meeting c
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-11-25T00:00:00Z"
+date: "2020-09-14T00:00:00Z"
 date_end: "2020-09-14T00:00:00Z"
 all_day: true
 
