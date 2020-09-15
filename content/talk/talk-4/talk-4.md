@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 links:
-url_video: "https://www.igf-usa.org/igf-usa-2016-video/"
+url_video: ""
 
 
 # Projects (optional).
@@ -32,6 +32,7 @@ projects: []
 math: true
 ---
 
-Additional video links: https://www.igf-usa.org/panel-expanding-access-adoption-and-digital-literacy-through-technology-and-local-solutions/
-
+Video links: 
+https://www.igf-usa.org/igf-usa-2016-video/
+https://www.igf-usa.org/panel-expanding-access-adoption-and-digital-literacy-through-technology-and-local-solutions/
 https://livestream.com/accounts/686369/events/5811490/videos/129722941/player?autoPlay=false&height=360&mute=false&width=640
