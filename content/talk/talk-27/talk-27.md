@@ -1,6 +1,6 @@
 ---
-title: Broadband Panel 28 Nov
-event: Broadband Panel 28 Nov
+title: Broadband Panel 
+event: Broadband Panel 
 event_url: 
 location: Washington, D.C.
 summary: 
