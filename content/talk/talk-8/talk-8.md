@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 links:
-url_video: "https://ieeetv.ieee.org/conference-highlights/connecting-the-unconnected-with-christopher-yoo-at-internet-inclusion-advancing-solutions-washington-dc-2016?rf=events|93&"
+url_video: ""
 
 
 # Projects (optional).
@@ -34,3 +34,4 @@ math: true
 
  Professor Christopher Yoo was the lunchtime keynote speaker at the IEEE IIAS Stakeholders meeting in Washington D.C. on the 6th of October, 2016. He presented on Empirical Research into Innovative Approaches to Connecting the Unconnected.
 
+Video: https://ieeetv.ieee.org/conference-highlights/connecting-the-unconnected-with-christopher-yoo-at-internet-inclusion-advancing-solutions-washington-dc-2016?rf=events|93&
