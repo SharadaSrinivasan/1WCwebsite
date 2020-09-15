@@ -57,15 +57,15 @@ The case studies provide meaningful information on last mile project deployments
 <details>
   <summary> <b> 1 World Connected collaborates with several international organizations to expand broadband adoption. Click to view our full list of collaborations</b></summary>
 
-Education for the Most Marginalised post-COVID 19 (EMMpost-Covid-19) Working Group (2020–present) 
-Global Connectivity Working Group, UN Secretary General High-Level Panel on Digital Cooperation (2020–present)
-Working Group on School Connectivity, Broadband Commission for Sustainable Development, co-sponsored by the International Telecommunications Union, UNESCO, and UNICEF (2020–present)
-Advisory Group, International Telecommunication Union/UNICEF GIGA Initiative (2020–present)
-Research Coalition, EQUALS: Global Partnership to Bridge the Digital Gender Divide, co-sponsored by the International Telecommunications Union, GSMA, International Trade Centre, and UN Women (2018–present)
-Dynamic Coalition on Innovative Approaches to Connecting the Unconnected, United Nations Internet Governance Forum (IGF) (2016–present)
-IEEE HAC Evaluation Committee (2018-2019)
-IEEE Internet Initiative (2016-19)
-World Economic Forum Internet for All Steering Committee (2016-19). 
+* Education for the Most Marginalised post-COVID 19 (EMMpost-Covid-19) Working Group (2020–present) 
+* Global Connectivity Working Group, UN Secretary General High-Level Panel on Digital Cooperation (2020–present)
+* Working Group on School Connectivity, Broadband Commission for Sustainable Development, co-sponsored by the International Telecommunications Union, UNESCO, and UNICEF (2020–present)
+* Advisory Group, International Telecommunication Union/UNICEF GIGA Initiative (2020–present)
+* Research Coalition, EQUALS: Global Partnership to Bridge the Digital Gender Divide, co-sponsored by the International Telecommunications Union, GSMA, International Trade Centre, and UN Women (2018–present)
+* Dynamic Coalition on Innovative Approaches to Connecting the Unconnected, United Nations Internet Governance Forum (IGF) (2016–present)
+* IEEE HAC Evaluation Committee (2018-2019)
+* IEEE Internet Initiative (2016-19)
+* World Economic Forum Internet for All Steering Committee (2016-19). 
 
 </details>
 
