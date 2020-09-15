@@ -8,7 +8,7 @@ summary: Professor Christopher Yoo presented on 1 World Connected at the event h
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2017-02-09T00:00:00Z"
-date_end: "2016-02-09T00:00:00Z"
+date_end: "2017-02-09T00:00:00Z"
 all_day: true
 
 authors: []
@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 links:
-url_video: "https://www.newamerica.org/oti/events/next-three-billion/"
+url_video: ""
 
 
 # Projects (optional).
@@ -34,4 +34,4 @@ math: true
 
 Professor Christopher Yoo presented on 1 World Connected at the event hosted by New America in Washington D. C. 
 
-
+Link to the video can be found on the event page: https://www.newamerica.org/oti/events/next-three-billion/
