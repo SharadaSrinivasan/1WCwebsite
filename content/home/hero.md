@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "1 World Connected"
+title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "background-slider.jpg"
+hero_media = ""
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,7 +24,7 @@ hero_media = "background-slider.jpg"
   # gradient_end = "#2b94c3"
   
   # Background image.
-  # image = ""  # Name of image in `static/media/`.
+  image = "One-World-Connected-Logo.png"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -47,8 +47,8 @@ hero_media = "background-slider.jpg"
  # label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  #label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+# [cta_note]
+  # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Global Research Project hosted at the Center for Technology, Innovation and Competition, University of Pennsylvania 
+
