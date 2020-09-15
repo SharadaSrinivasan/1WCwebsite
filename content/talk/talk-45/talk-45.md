@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 links:
-url_video: "https://youtu.be/czQxnMkH3SA"
+url_video: ""
 
 
 # Projects (optional).
@@ -32,4 +32,4 @@ projects: []
 math: true
 ---
 
-
+Video: https://youtu.be/czQxnMkH3SA
