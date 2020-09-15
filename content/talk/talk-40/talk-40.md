@@ -1,6 +1,6 @@
 ---
-title: IGF 2018
-event: IGF 2018
+title: Internet Governance Forum 2018
+event: Internet Governance Forum 2018
 event_url: https://www.intgovforum.org/multilingual/
 location: Paris
 summary: 1 World Connected organized 3 workshops and a Dynamic Coalition meeting at IGF 2018. 
