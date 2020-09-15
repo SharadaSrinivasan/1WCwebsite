@@ -3,7 +3,7 @@ title: Internet Governance Forum 2016
 event: Internet Governance Forum 2016
 event_url: https://www.intgovforum.org/multilingual/content/igf-2016
 location: Guadalajara
-summary: 1 World Connected presented at 5 workshops at the Internet Governance Forum in 2016, including at two main sessions. 
+summary: 1 World Connected organized 2 workshops and held the annual DC meeting for Connecting the Unconnected. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -36,7 +36,7 @@ math: true
 
 At the Internet Governance Forum, 1 World Connected had a very strong presence. 
 
-We organized the first annual meeting of the Dynamic Coalition Session on Innovative Approaches to Connecting the Unconnected. Video: 
+We organized the first annual meeting of the Dynamic Coalition Session on Innovative Approaches to Connecting the Unconnected. Video: https://youtu.be/Zqat9YbST60
 
 We contributed to the Policy Option(s) for Connecting and Enabling the Next Billions - Phase II. [Report](https://www.intgovforum.org/multilingual/content/igf-2016-policy-options-for-connecting-and-enabling-the-next-billions-phase-ii) Video: https://youtu.be/sgfXYu1AxIY
 
