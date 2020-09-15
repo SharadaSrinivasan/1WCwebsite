@@ -54,5 +54,10 @@ The case studies provide meaningful information on last mile project deployments
 
 1 World Connected has been supported by  American Tower, AT&T, Cellular Operators Association of India, Comcast, Disney, Facebook, GSMA, Intel, ICANN, Internet Society, ITI, Microsoft, and Verizon.
 
+<details>
+  <summary>Collaborations </summary>
+
 1 World Connected collaborates with several international organizations and participates in working groups pertaining to connectivity and development. Some include the Education for the Most Marginalised post-COVID 19 (EMMpost-Covid-19) Working Group (2020–present), Global Connectivity Working Group, UN Secretary General High-Level Panel on Digital Cooperation (2020–present), Working Group on School Connectivity, Broadband Commission for Sustainable Development, co-sponsored by the International Telecommunications Union, UNESCO, and UNICEF (2020–present), Advisory Group, International Telecommunication Union/UNICEF GIGA Initiative (2020–present), Research Coalition, EQUALS: Global Partnership to Bridge the Digital Gender Divide, co-sponsored by the International Telecommunications Union, GSMA, International Trade Centre, and UN Women (2018–present), Dynamic Coalition on Innovative Approaches to Connecting the Unconnected, United Nations Internet Governance Forum (IGF) (2016–present), FCC Broadband Deployment Advisory Committee (2019-present), IEEE HAC Evaluation Committee (2018-2019), IEEE Internet Initiative (2016-19), and World Economic Forum Internet for All Steering Committee (2016-19). 
+
+</details>
 
