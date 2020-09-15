@@ -18,11 +18,7 @@ tags: []
 featured: false
 
 links:
-url_video: "https://www.youtube.com/watch?v=sgfXYu1AxIY&index=7&list=PLqupvZLpR3EhNnh3cxKtHP_9PhoP1uvHp&t=0s"
-url_video: "https://youtu.be/SpddHxkL1pg"
-url_video: "https://youtu.be/NfYHOfswDTw"
-url_video: "https://youtu.be/dEDy1s9n2Og"
-url_video: "https://youtu.be/Zqat9YbST60"
+url_video: ""
 
 
 
@@ -46,7 +42,11 @@ Initiatives Connecting the Unconnected - Where’s the Data?, Internet Governanc
 
 Open Forum Session on Internet for All - Improving Global and Regional Coordination, cohosted by the World Economic Forum, Global Connect, IEEE, ISOC, ITU, and the World Bank, Internet Governance Forum, Guadalajara, Mexico (December 5, 2016).
 
-
+Video links: https://www.youtube.com/watch?v=sgfXYu1AxIY&index=7&list=PLqupvZLpR3EhNnh3cxKtHP_9PhoP1uvHp&t=0s
+https://youtu.be/SpddHxkL1pg
+https://youtu.be/NfYHOfswDTw
+https://youtu.be/dEDy1s9n2Og
+https://youtu.be/Zqat9YbST60
 
 
 
