@@ -34,19 +34,19 @@ projects: []
 math: true
 ---
 
-At the Internet Governance Forum, 1 World Connected had a very strong presence. We participated in the IGF Best Practice Forums and Policy Options for Connecting the Next Billion(s), the Dynamic Coalition Main Session, the Dynamic Coalition Session on Innovative Approaches to Connecting the Unconnected. 
+At the Internet Governance Forum, 1 World Connected had a very strong presence. 
 
-1 World Connected also organized two workshops, namely Exploring Demand-Side Drivers of Internet Adoption, Internet Governance Forum, Guadalajara, Mexico (December 6, 2016). 
+We organized the first annual meeting of the Dynamic Coalition Session on Innovative Approaches to Connecting the Unconnected. Video: 
 
-Initiatives Connecting the Unconnected - Where’s the Data?, Internet Governance Forum, Guadalajara, Mexico (December 6, 2016). 
+We contributed to the Policy Option(s) for Connecting and Enabling the Next Billions - Phase II. [Report](https://www.intgovforum.org/multilingual/content/igf-2016-policy-options-for-connecting-and-enabling-the-next-billions-phase-ii) Video: https://youtu.be/sgfXYu1AxIY
 
-Open Forum Session on Internet for All - Improving Global and Regional Coordination, cohosted by the World Economic Forum, Global Connect, IEEE, ISOC, ITU, and the World Bank, Internet Governance Forum, Guadalajara, Mexico (December 5, 2016).
+1 World Connected also organized two workshops: 
+* Exploring Demand-Side Drivers of Internet Adoption [Workshop Proposal and Report](https://www.intgovforum.org/multilingual/content/igf-2016-workshop-evaluation-results) Video: https://youtu.be/NfYHOfswDTw
+* Initiatives Connecting the Unconnected - Where’s the Data? [Workshop Proposal and Report](https://www.intgovforum.org/multilingual/content/igf-2016-workshop-evaluation-results) Video: https://youtu.be/dEDy1s9n2Og
 
-Video links: https://www.youtube.com/watch?v=sgfXYu1AxIY&index=7&list=PLqupvZLpR3EhNnh3cxKtHP_9PhoP1uvHp&t=0s
-https://youtu.be/SpddHxkL1pg
-https://youtu.be/NfYHOfswDTw
-https://youtu.be/dEDy1s9n2Og
-https://youtu.be/Zqat9YbST60
+
+
+
 
 
 
