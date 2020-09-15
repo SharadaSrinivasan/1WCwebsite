@@ -29,17 +29,17 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "View the video"
-  cta_url = "https://youtu.be/ULMMg6KeBs8"
+  cta_label = "Learn More"
+  cta_url = "#"
   cta_icon_pack = "fas"
-  cta_icon = "video"
+  cta_icon = "arrow-right"
 
 [[item]]
   title = "Tele-medicine in Vanuatu"
   content = "Studying the impact of first-time Internet connectivity on health outcomes"
   align = "right"
   cta_label = "Learn More"
-  cta_url = "https://youtu.be/ULMMg6KeBs8"
+  cta_url = "#"
   cta_icon_pack = "fas"
   cta_icon = "arrow-right"
 
@@ -52,7 +52,7 @@ height = ""
   content = "Studying the adoption of mobile health applications in rural Nepal" 
   align = "right"
   cta_label = "Learn more"
-  cta_url = "https://youtu.be/ULMMg6KeBs8"
+  cta_url = "#"
   cta_icon_pack = "fas"
   cta_icon = "arrow-right"
 
