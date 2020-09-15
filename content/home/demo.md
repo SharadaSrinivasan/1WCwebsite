@@ -39,9 +39,7 @@ weight = 1 # Order that this section will appear.
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
 
-header:
-  image: "One-World-Connected-Logo.png"
-  caption: ""
+
   
 [advanced]
  # Custom CSS. 
