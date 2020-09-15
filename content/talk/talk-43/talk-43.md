@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 links:
-url_video: "http://www.ppdd.org/conferences/ppdd2019/"
+url_video: ""
 
 
 # Projects (optional).
@@ -33,4 +33,4 @@ math: true
 ---
 
 The paper that Muge Haseki presented was titled " Intersectionality Perspective to Understanding the Barriers to Women’s Access and Use: A Case Study Approach"
-
+Video here: http://www.ppdd.org/conferences/ppdd2019/
