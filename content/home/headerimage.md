@@ -1,11 +1,7 @@
-+++
-# Hero widget.
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
-
-title = ""
-+++
-
-![Logo](/One-World-Connected-Logo.png)
+---
+widget: blank
+columns: 1
+header:
+  image: One-World-Connected-Logo.png
+  caption: "1 World Connected"
+---
