@@ -31,5 +31,7 @@ projects: []
 # Enable math on this page?
 math: true
 ---
+1 World Connected hosted the annual DC Meeting on Innovative Approaches to Connecting the Unconnected. Video: https://youtu.be/czQxnMkH3SA
 
-Video: https://youtu.be/czQxnMkH3SA
+1 World Connected also organized a panel on digital skills for youth. [Workshop Proposal and Report](https://www.intgovforum.org/multilingual/content/igf-2019-ws-342-digitally-skilling-our-youth-varied-global-approaches) Video: https://youtu.be/GnLE3T54VQg
+
