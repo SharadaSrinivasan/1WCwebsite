@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 links:
-url_video: "https://ieeetv.ieee.org/event-showcase/iias-dc-april-2017"
+url_video: ""
 
 
 # Projects (optional).
@@ -34,4 +34,4 @@ math: true
 
 1 World Connected led the Working Group on Evidence-Based Research and Moderated Panel on Working Groups, at the IEEE Internet Inclusion - Advancing Solutions, sponsored by IEEE in collaboration with Guifi.net, Internet Society, ITU, Partnership for Public Access, People Centered Internet, USAID, the World Bank, and the World Economic Forum, in Washington D.C.
 
-
+Video: https://ieeetv.ieee.org/event-showcase/iias-dc-april-2017
