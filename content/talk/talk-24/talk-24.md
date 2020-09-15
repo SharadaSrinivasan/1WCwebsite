@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 links:
-url_video: "https://www.youtube.com/watch?v=Jfog4oI2WTc"
+url_video: ""
 
 
 # Projects (optional).
@@ -35,3 +35,4 @@ math: true
 
 Sharada Srinivasan presented to the Engineering 4 Change community through an online webinar in August 2017.
 
+Video: https://www.youtube.com/watch?v=Jfog4oI2WTc
