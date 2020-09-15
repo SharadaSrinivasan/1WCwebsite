@@ -31,7 +31,7 @@ projects: []
 math: true
 ---
 
-1 World Connected organised the annual Dynamic Coalition meeting at IGF 2018: Dynamic Coalition on Innovative Approaches to Connecting the Unconnected - Policies for Emerging Practices. Video: 
+1 World Connected organised the annual Dynamic Coalition meeting at IGF 2018: Dynamic Coalition on Innovative Approaches to Connecting the Unconnected - Policies for Emerging Practices. Video unavailable; transcript: https://www.intgovforum.org/multilingual/content/igf-2018-day-2-salle-viii-dc-connecting-the-unconnected-policies-for-emerging-practices
 
 1 World Connected also served as co-conveners of the Connecting and Enabling the Next Billions - Phase IV.[Report](https://www.intgovforum.org/multilingual/content/cenb-%E2%80%93-phase-iv-0) Video: https://youtu.be/X3mvduFdThk
 
