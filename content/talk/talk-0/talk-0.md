@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 links:
-url_video: "https://ieeetv.ieee.org/conference-highlights/lightning-talk-on-regional-status-technologies-and-the-unconnected-global-connect-stakeholders-advancing-solutions?rf=events|90&"
+url_video: ""
 
 
 # Projects (optional).
@@ -32,6 +32,6 @@ projects: []
 math: true
 ---
 
-Additional video links: 
-
+Video links: 
+https://ieeetv.ieee.org/conference-highlights/lightning-talk-on-regional-status-technologies-and-the-unconnected-global-connect-stakeholders-advancing-solutions?rf=events|90&
 https://ieeetv.ieee.org/event-showcase/global-connect-2016
