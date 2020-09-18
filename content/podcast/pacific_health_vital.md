@@ -3,7 +3,7 @@
 title = "Vanuatu Inter-Island Telemedicine and Learning (VITAL) Network"
 
 # Date this page was created.
-date = 2020-05-14T00:00:00
+date = 2020-06-14T00:00:00
 
 # Project summary to display on homepage.
 summary = "*1 World Connected Podcast with Dr. Basil Leodoro, VITAL*"
