@@ -16,6 +16,7 @@ tags = ["Asia", "Health"]
 external_link = "https://soundcloud.com/user-658188477/vanuatu-inter-island-telemedicine-and-learning-network"
 
 +++
+
 In this podcast, Professor Christopher Yoo of 1 World Connected interviews Dr. Basil Leodoro of the Vanuatu Inter-island Telemedicine and LEarning Network. 
 
 The full podcast can be listened to on [SoundCloud at this link](https://soundcloud.com/user-658188477/vanuatu-inter-island-telemedicine-and-learning-network)
