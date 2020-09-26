@@ -64,6 +64,6 @@ The Peek Retina trainings assume smartphone literacy that many healthcare worker
 
 
 To learn more about the Peek Vision please visit their website or see the [case
-study](../project/africa_health_peekvision/).
+study](../project/africa_health_peekvisionbotswana/).
 
 
