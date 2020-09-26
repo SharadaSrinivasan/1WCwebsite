@@ -55,17 +55,17 @@ The case studies provide meaningful information on last mile project deployments
 1 World Connected has been supported by  American Tower, AT&T, Cellular Operators Association of India, Comcast, Disney, Facebook, GSMA, Intel, ICANN, Internet Society, ITI, Microsoft, and Verizon.
 
 <details>
-  <summary> <b> 1 World Connected collaborates with several international organizations to expand broadband adoption. Click to view our full list of collaborations</b></summary>
+  <summary> <b> 1 World Connected collaborates with several international organizations to expand Internet connectivity. Click to view our full list of collaborations</b></summary>
 
-* Education for the Most Marginalised post-COVID 19 (EMMpost-Covid-19) Working Group (2020–present) 
+* Working Group, Education for the Most Marginalised post-COVID 19 (EMMpost-Covid-19) (2020–present)
 * Global Connectivity Working Group, UN Secretary General High-Level Panel on Digital Cooperation (2020–present)
-* Working Group on School Connectivity, Broadband Commission for Sustainable Development, co-sponsored by the International Telecommunications Union, UNESCO, and UNICEF (2020–present)
-* Advisory Group, International Telecommunication Union/UNICEF GIGA Initiative (2020–present)
-* Research Coalition, EQUALS: Global Partnership to Bridge the Digital Gender Divide, co-sponsored by the International Telecommunications Union, GSMA, International Trade Centre, and UN Women (2018–present)
+* Working Group on School Connectivity, Broadband Commission for Sustainable Development, co-chaired by the UNICEF, UNESCO, and International Telecommunications Union(2019–2020)
+* Advisory Group, GIGA Initiative, coordinated by International Telecommunication Union and UNICEF (2019–present) Research Coalition, EQUALS: Global Partnership to Bridge the Digital Gender Divide, co-sponsored by the International Telecommunications Union, GSMA, International Trade Centre, and UN Women (2018–present)
 * Dynamic Coalition on Innovative Approaches to Connecting the Unconnected, United Nations Internet Governance Forum (IGF) (2016–present)
-* IEEE HAC Evaluation Committee (2018-2019)
-* IEEE Internet Initiative (2016-19)
-* World Economic Forum Internet for All Steering Committee (2016-19). 
+* Inter-American Development Bank (2019-20)
+* Evaluation Committee, Humanitarian Activities Committee, IEEE (2018-2019)
+* Lead for Evidence-Based Research Working Group, Internet Inclusion Advancing Solutions, IEEE (2016-19)
+* Project Lead for the Data Working Group and Steering Committee Member, Internet for All, World Economic Forum (2016-19)
 
 </details>
 
