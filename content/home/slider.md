@@ -33,7 +33,21 @@ height = ""
  # cta_url = "https://docs.google.com/spreadsheets/d/1mR3-AMQ__2iRdaIgqaB_yMIK4M5Kygu8DMapFlhiu4I/edit#gid=0"
   # cta_icon_pack = "fas"
   # cta_icon = "file-alt"
+  
+ [[item]]
+  title = ""
+  content = "1 World Connected now has a newsletter!"
+  align = "left"
 
+  overlay_color = "#0b2a48"  # An HTML color value.
+  # overlay_img = ""  # Image path relative to your `static/media/` folder.
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Subscribe here"
+  cta_url = "https://1worldconnected.substack.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2F1worldconnected.substack.com%2F"
+  cta_icon_pack = "fas"
+  cta_icon = "right-arrow"
+ 
 [[item]]
   title = ""
   content = "Check out the latest 1 World Connected podcast!"
@@ -47,6 +61,9 @@ height = ""
   cta_url = "#podcast"
   cta_icon_pack = "fas"
   cta_icon = "file-audio"
+  
+ 
+
 
 
 +++
