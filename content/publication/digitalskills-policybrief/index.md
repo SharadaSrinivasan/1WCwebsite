@@ -99,7 +99,6 @@ The report also highlighted that we lack the evidence on what combination of dig
 | --- | --- | --- |
 | **Count** | **%** | **Count** | **%** |
 | Africa | 125 | 37% | 16 | 36% |
-| --- | --- | --- | --- | --- |
 | Asia | 95 | 28% | 17 | 39% |
 | Latin America | 54 | 16% | 5 | 11% |
 | Europe | 23 | 7% | 2 | 5% |
@@ -107,7 +106,7 @@ The report also highlighted that we lack the evidence on what combination of dig
 | Oceania | 6 | 2% | 1 | 2% |
 | Varied | 17 | 5% | - | - |
 | Total | 339 | 100% | 44 | 100% |
-| --- | --- | --- | --- | --- |
+
 
 - The regional distribution of digital skills programs shows that most of the projects are concentrated in Asia and Africa, 39% and 36% respectively, with several case studies in Latin America (11%), North America (7%), Europe (5%), and Oceania (2%).
 - Compared to the overall database, the case studies show a slightly higher concentration in Asia and North America and slightly lower concentration in Africa, Latin America, and Europe.
@@ -117,7 +116,6 @@ The report also highlighted that we lack the evidence on what combination of dig
 | **Target group** | **Count** | **Percentage** |
 | --- | --- | --- |
 | Students | 20 | 43% |
-| --- | --- | --- |
 | Girls &amp; Women | 12 | 26% |
 | Youth | 6 | 13% |
 | General population | 6 | 13% |
@@ -252,12 +250,12 @@ The report also highlighted that we lack the evidence on what combination of dig
 | **Category** | **Reach** | **Count** | **Percentage** |
 | --- | --- | --- | --- |
 | Individual | Fewer than 1000 | 8 | 32% |
-| 1000 – 10,000 | 5 | 20% |
-| 10,001 – 1 million | 10 | 40% |
-| More than 1 million | 2 | 8% |
+| | 1000 – 10,000 | 5 | 20% |
+| | 10,001 – 1 million | 10 | 40% |
+| | More than 1 million | 2 | 8% |
 | Institution | Fewer than 50 | 3 | 25% |
-| 50 – 100 | 4 | 33% |
-| More than 100 | 5 | 42% |
+| | 50 – 100 | 4 | 33% |
+| | More than 100 | 5 | 42% |
 
 - In terms of reach, 40% of the initiatives that indicated their reach in terms of individuals have a reach of 10,001 – 1 million people.
 - The initiatives that indicted their reach in terms of institutions such as school, library, or kiosk show more evenly spread out among fewer than 50 (25%), 50 – 100 (33%), and more than 100 institutions (42%).
@@ -267,7 +265,6 @@ The report also highlighted that we lack the evidence on what combination of dig
 | **Scale** | **Count** | **Percentage** |
 | --- | --- | --- |
 | National | 18 | 41% |
-| --- | --- | --- |
 | Regional | 13 | 29% |
 | Local | 11 | 25% |
 | International | 2 | 5 |
@@ -281,19 +278,13 @@ The report also highlighted that we lack the evidence on what combination of dig
 | --- | --- | --- |
 | **Count** | **Percentage** | **Count** | **Percentage** |
 | Grants | 250 | 74% | 30 | 65% |
-| --- | --- | --- | --- | --- |
 | Government | 30 | 9% | 5 | 11% |
 | Subscription Model | 5 | 1% | 5 | 11% |
 | CSR | 4 | 1% | 6 | 13% |
 | Combo | 4 | 1% |
- |
- |
 | Donation | 3 | 1% |
- |
- |
 | N/A | 47 | 14% |
- |
- |
+
 
 \*Double-counted if needed
 
@@ -306,7 +297,6 @@ The report also highlighted that we lack the evidence on what combination of dig
 | --- | --- | --- |
 | **Count** | **Percentage** | **Count** | **Percentage** |
 | NGO | 244 | 72% | 27 | 62% |
-| --- | --- | --- | --- | --- |
 | Government | 42 | 12% | 7 | 16% |
 | Private Sector | 32 | 9% | 9 | 20% |
 | Academia | 21 | 6% | 1 | 2% |
@@ -340,7 +330,6 @@ The report also highlighted that we lack the evidence on what combination of dig
 | **Methods** | **Count** | **Percentage** |
 | --- | --- | --- |
 | Qualitative | 27 | 63% |
-| --- | --- | --- |
 | Quantitative | 14 | 33% |
 | Both | 2 | 5% |
 
@@ -353,7 +342,6 @@ The report also highlighted that we lack the evidence on what combination of dig
 | **Self-Reported Challenges** | **Count** | **Percentage** |
 | --- | --- | --- |
 | Lack of sustained funding | 14 | 13% |
-| --- | --- | --- |
 | Limited and irregular electricity access | 10 | 9% |
 | Lack of skilled manpower | 9 | 8% |
 | Lack of access to devices | 8 | 7% |
@@ -369,7 +357,6 @@ The report also highlighted that we lack the evidence on what combination of dig
 | **ORGANIZATION** | **COUNTRY** | **FOCUS** |
 | --- | --- | --- |
 | **Adaptive Technology Center for the Blind** | **Ethiopia** | To train visually challenged users through vocational training in basic computer skills and converting more than 2,000 literatures to Braille text |
-| --- | --- | --- |
 | **Africa ICT Right** | **Ghana** | To equip girls with the skills and enthusiasm necessary to pursue a career in STEM by providing ICT classes after school |
 | **African Women Power Network** | **Nigeria** | To provide ICT-based training to women farmers with improved agricultural methods and materials |
 | **Beyond Access** | **Bangladesh** | To establish a network of 24 libraries in Bangladesh to introduce literacy and ICT resources to early grade children |
@@ -412,6 +399,8 @@ The report also highlighted that we lack the evidence on what combination of dig
 | **Universal Learn Today** | **India** | To provide students and teachers with ICT education through computer-based in-person training |
 | **Universal Service Fund** | **Pakistan** | To provide girls and young women with basic ICT training through computer-based in-person training |
 | **Zaya Learning Lab** | **India** | To provide Internet access and educational materials to students and teachers through ClassCloud-based technology |
+
+# About 1 World Connected
 
 _1 World Connected_ is a research project of the Center for Technology, Innovation and Competition at the University of Pennsylvania. The project seeks to provide detailed, contextualized data through case studies of grassroots projects around the world. We have compiled a first-of-its-kind database spanning more than 1000 such initiatives from more than 50 countries, and compiled, through semi-structured interviews, 120 case studies on both demand- and supply-side efforts. Demand-side efforts are designed to encourage adoption and use. Supply-side efforts aim to extend Internet coverage.
 
