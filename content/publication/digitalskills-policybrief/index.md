@@ -131,7 +131,6 @@ The report also highlighted that we lack the evidence on what combination of dig
 | **Geography** | **Count** | **Percentage** |
 | --- | --- | --- |
 | Rural | 22 | 50% |
-| --- | --- | --- |
 | Urban | 11 | 25% |
 | Both | 11 | 25% |
 
@@ -143,11 +142,9 @@ The report also highlighted that we lack the evidence on what combination of dig
 | **Mode of Delivery** | **Count** | **Percentage** |
 | --- | --- | --- |
 | Computer-based | 28 | 65% |
-| --- | --- | --- |
 | Mobile-based | 9 | 21% |
 | Tablet-based | 6 | 14% |
 | In-person | 37 | 84% |
-| --- | --- | --- |
 | Online | 7 | 16% |
 
 \*Double-counted if needed
@@ -160,7 +157,6 @@ The report also highlighted that we lack the evidence on what combination of dig
 | **General Category** | **Sub-Category** | **Count** | **Percentage** |
 | --- | --- | --- | --- |
 | Basic ICT Training | E-mail | 42 |
- |
 | --- | --- | --- | --- |
 | Information gathering and sharing | 38 |
  |
@@ -242,16 +238,11 @@ The report also highlighted that we lack the evidence on what combination of dig
 | **Frequency** | **Duration** | **Count** | **Percentage** |
 | --- | --- | --- | --- |
 | One time | 2 to 20 hours | 5 |
- |
-| --- | --- | --- | --- |
 | Self-paced | 1 to 4 weeks | 9 |
- |
 | 2 hours per week | 1 academic semester | 3 |
- |
 | 1 hour per week | 1 academic year | 9 |
- |
 | Various | 1 year | 3 |
- |
+
 
 - The duration of the programs varies at a great deal, ranging from 2 hours to 100 hours, and from an academic semester to academic year.
 - There are also a small number of programs which are self-paced through an application (N=2).
@@ -261,12 +252,10 @@ The report also highlighted that we lack the evidence on what combination of dig
 | **Category** | **Reach** | **Count** | **Percentage** |
 | --- | --- | --- | --- |
 | Individual | Fewer than 1000 | 8 | 32% |
-| --- | --- | --- | --- |
 | 1000 – 10,000 | 5 | 20% |
 | 10,001 – 1 million | 10 | 40% |
 | More than 1 million | 2 | 8% |
 | Institution | Fewer than 50 | 3 | 25% |
-| --- | --- | --- | --- |
 | 50 – 100 | 4 | 33% |
 | More than 100 | 5 | 42% |
 
