@@ -152,79 +152,32 @@ The report also highlighted that we lack the evidence on what combination of dig
 
 **Table 5: The Content of Digital Skills Training Programs Across 44 Case Studies**
 
-| **General Category** | **Sub-Category** | **Count** | **Percentage** |
-| --- | --- | --- | --- |
+| **General Category** | **Sub-Category** | **Count** |
 | Basic ICT Training | E-mail | 42 |
-| --- | --- | --- | --- |
-| Information gathering and sharing | 38 |
- |
-| Social media | 5 |
- |
-| Sub-total | 85 |
- |
+| | Information gathering and sharing | 38 |
+| | Social media | 5 |
 | Employment | ICT for the workplace | 12 |
- |
-| --- | --- | --- | --- |
-| Business planning and project management | 8 |
- |
-| Mentorship | 5 |
- |
-| Leadership | 5 |
- |
-| Accessing remote employment | 2 |
- |
-| Sub-total | 32 |
- |
+| | Business planning and project management | 8 |
+| | Mentorship | 5 |
+| | Leadership | 5 |
+| | Accessing remote employment | 2 |
 | Education (Teacher Training) | Developing and accessing curricula | 12 |
- |
-| --- | --- | --- | --- |
-| Incorporating ICT in classroom teaching | 7 |
- |
-| Remote connection to resources and institutions | 5 |
- |
-| Sub-total | 24 |
- |
+| | Incorporating ICT in classroom teaching | 7 |
+| | Remote connection to resources and institutions | 5 |
 | Entrepreneurship | Entrepreneurship | 8 |
- |
-| --- | --- | --- | --- |
-| Accessing markets | 5 |
- |
-| Sub-total | 13 |
- |
+| | Accessing markets | 5 |
 | Advanced ICT Training | Web design and development | 6 |
- |
-| --- | --- | --- | --- |
-| Coding | 3 |
- |
-| Animation and game development | 3 |
- |
-| Sub-total | 12 |
- |
+| | Coding | 3 |
+| | Animation and game development | 3 |
 | Gender Equality | Gender access and use | 12 |
- |
-| --- | --- | --- | --- |
 | Social Skills | Creative expression | 7 |
- |
-| --- | --- | --- | --- |
-| Parenting | 2 |
- |
-| Sub-total | 9 |
- |
+| | Parenting | 2 |
 | Financial Literacy | Online banking services | 7 |
- |
-| --- | --- | --- | --- |
 | E-Government | E-Government services | 5 |
- |
-| --- | --- | --- | --- |
 | Literacy | Reading and writing | 5 |
- |
-| --- | --- | --- | --- |
 | Health | Tele-health services | 4 |
- |
-| --- | --- | --- | --- |
 | Agriculture | Modern agriculture techniques | 3 |
- |
-| --- | --- | --- | --- |
+
 
 - Digital skills training programs focus on a wide range of topics, but most of the content of the digital skill initiatives is basic ICT training and literacy (55%), followed by computer and software skills (16%), entrepreneurship and vocational training (12%), innovative education (10%), internet access, and modern agriculture (4% each).
 - The second major focus of digital skills training is employment, which constitutes of ICT training for the workplace, business planning and project management, mentorship, leadership, and accessing remote employment.
