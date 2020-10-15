@@ -16,7 +16,7 @@ summary = "Providing digital literacy to rural communities in **Sri Lanka**"
 
 # Example: `tags = ["machine-learning", "deep-learning"]`
 
-tags = ["Asia", "Digital Skills Training", "Gender"]
+tags = ["Asia", "Digital Skills Training", "Gender", "Featured"]
 
 # Optional external URL for project (replaces project detail page).
 
