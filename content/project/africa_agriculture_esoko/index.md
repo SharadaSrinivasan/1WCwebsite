@@ -11,7 +11,7 @@ summary = "Provides access to agricultural information through ICTs across **Afr
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Africa", "Agriculture"]
+tags = ["Africa", "Agriculture", "Featured"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
