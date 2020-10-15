@@ -16,7 +16,7 @@ summary = "Connecting Rural Communities in the **Amazon Rainforest** "
 
 # Example: `tags = ["machine-learning", "deep-learning"]`
 
-tags = ["Latin America and the Caribbean", "Community Network", "Health", "Featured"]
+tags = ["Latin America and the Caribbean", "Community Network", "Health"]
 
 # Optional external URL for project (replaces project detail page).
 
