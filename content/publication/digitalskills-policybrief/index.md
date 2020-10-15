@@ -153,6 +153,7 @@ The report also highlighted that we lack the evidence on what combination of dig
 **Table 5: The Content of Digital Skills Training Programs Across 44 Case Studies**
 
 | **General Category** | **Sub-Category** | **Count** |
+| --- | --- | --- |
 | Basic ICT Training | E-mail | 42 |
 | | Information gathering and sharing | 38 |
 | | Social media | 5 |
