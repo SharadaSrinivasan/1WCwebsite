@@ -1,3 +1,32 @@
++++
+# Project title.
+title = "BanQu"
+
+# Date this page was created.
+date = 2020-09-14T00:00:00
+
+# Project summary to display on homepage.
+summary = "*By Devorah Fischler, Research Assistant, 1 World Connected*"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["Africa", "Financial Inclusion"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+
+
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = "Smart"
+
++++
+
 **BanQu**
 
 **The Problem**
