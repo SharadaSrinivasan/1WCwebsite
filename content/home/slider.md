@@ -36,7 +36,7 @@ height = ""
   [[item]]
   title = ""
   content = "1 World Connected participates online at vIGF 2020"
-  align = "left"
+  align = "center"
 
   overlay_color = "#0b2a48"  # An HTML color value.
   # overlay_img = ""  # Image path relative to your `static/media/` folder.
