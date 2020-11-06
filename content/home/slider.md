@@ -33,7 +33,21 @@ height = ""
  # cta_url = "https://docs.google.com/spreadsheets/d/1mR3-AMQ__2iRdaIgqaB_yMIK4M5Kygu8DMapFlhiu4I/edit#gid=0"
   # cta_icon_pack = "fas"
   # cta_icon = "file-alt"
+  [[item]]
+  title = ""
+  content = "1 World Connected participates online at vIGF 2020"
+  align = "left"
+
+  overlay_color = "#0b2a48"  # An HTML color value.
+  # overlay_img = ""  # Image path relative to your `static/media/` folder.
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
+  cta_label = "Check out our DC session!"
+  cta_url = "https://youtu.be/ZgpKmGHFI-o"
+  cta_icon_pack = "fas"
+  cta_icon = "video"
+ 
+ 
  [[item]]
   title = ""
   content = "1 World Connected now has a newsletter!"
