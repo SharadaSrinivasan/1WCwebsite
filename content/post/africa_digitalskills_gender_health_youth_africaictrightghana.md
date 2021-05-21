@@ -6,7 +6,7 @@ title = "Africa ICT Right"
 date = 2020-09-14T00:00:00
 
 # Project summary to display on homepage.
-summary = "*By Devorah Fischer, Research Assistant, 1 World Connected*"
+summary = "*By Devorah Fischler, Research Assistant, 1 World Connected*"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
